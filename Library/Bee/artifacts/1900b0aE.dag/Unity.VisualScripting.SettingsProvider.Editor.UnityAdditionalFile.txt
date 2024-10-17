@@ -1,1 +1,1 @@
-B:\Unity\Prototipado\Ejercicio-Principios-SOLID
+B:\Unity\Prototipado\Principios-SOLID
